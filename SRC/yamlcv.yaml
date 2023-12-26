@@ -1,0 +1,10 @@
+details:
+  first_name: Даниил
+  last_name: Чубаров
+  title: студент
+
+contact:
+- text: chubarov.d.152@e.tusur.ru
+  icon: gmail
+  
+technical: []
